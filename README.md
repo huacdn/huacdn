@@ -1,0 +1,2 @@
+# huacdn
+For CDN likely.
